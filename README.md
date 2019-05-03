@@ -29,9 +29,20 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 ## Self-Study/Essay Questions
 
 - [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+
+Prototypes are for checking your data, It is important to check and make sure that type of data is what it is suppose to be.
+
 - [ ] Describe a life-cycle event in React?
+
+Mounting-(constructor, DidMount, render, updating the DOM), Updating-(New props, Set State, render, DidUpdate) Unmounting-(WillUnmount)
+
 - [ ] Explain the details of a Higher Order Component?
+
+an HOC is a component(function) that call another Component(function)
+
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+
+reactstrap - an addition to the bootstrap library that has some automatically styled components for you to use. CSS in js - put CSS directly into your js files, you can potentialy just use js files with formating.
 
 ## Project Setup
 
